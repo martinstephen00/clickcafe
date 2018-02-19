@@ -15,8 +15,8 @@ body,h1,h2,h3,h4,h5,h6 {
 
 /* Have padding top so banner image doesn't overlap top nav */
 .intro-banner {
-    /*padding-top: 50px;
-    padding-bottom: 50px;*/
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
     color: #f2f2f2;
     background: url("img/logo.jpg") no-repeat center center;
@@ -57,7 +57,7 @@ body,h1,h2,h3,h4,h5,h6 {
 }
 
 /* For smaller devices */
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
     .intro-inner {
         padding-bottom: 15%;
     }
@@ -95,7 +95,7 @@ body,h1,h2,h3,h4,h5,h6 {
     padding: 50px 0;
     border-top: 1px solid #e3e3e3;
     border-bottom: 1px solid #e3e3e3;
-}
+}*/
 
 /* hr */
 .section-heading-spacer {
